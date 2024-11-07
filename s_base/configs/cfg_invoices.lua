@@ -1,0 +1,17 @@
+Config.Faturas = {
+	["police"] = {type = "pendente", trabalhador = 0.0, empresa = 0.1},
+	["sheriff"] = {type = "pendente", trabalhador = 0.0, empresa = 0.1},
+	["governo"] = {type = "pendente", trabalhador = 0.0, empresa = 0.1},
+	["ambulance"] = {type = "obrigatorio", trabalhador = 0.3, empresa = 0.1},
+	["pearls"] = {type = "obrigatorio", trabalhador = 0.2, empresa = 0.8},
+	["pizza"] = {type = "obrigatorio", trabalhador = 0.2, empresa = 0.8},
+	["oficina1"] = {type = "obrigatorio", trabalhador = 0.9, empresa = 0.1},
+	["oficina2"] = {type = "obrigatorio", trabalhador = 0.9, empresa = 0.1},
+	["oficina3"] = {type = "obrigatorio", trabalhador = 0.9, empresa = 0.1},
+	["lavagem1"] = {type = "obrigatorio", trabalhador = 0.0, empresa = 1},
+	["lavagem2"] = {type = "obrigatorio", trabalhador = 0.9, empresa = 0.1},
+	["lavagem3"] = {type = "obrigatorio", trabalhador = 0.2, empresa = 0.8},
+	["lavagem4"] = {type = "obrigatorio", trabalhador = 0.0, empresa = 1},
+	["acess1"] = {type = "obrigatorio", trabalhador = 0.0, empresa = 1},
+	["acess2"] = {type = "obrigatorio", trabalhador = 0.0, empresa = 1},
+}
